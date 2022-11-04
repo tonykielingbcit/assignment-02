@@ -1,5 +1,7 @@
 {
   "name": "shopping-cart",
+  "author": "Byul Kim, Ginni Chopra, Tony Kieling"
+  ,
   "version": "0.1.0",
   "private": true,
   "dependencies": {
