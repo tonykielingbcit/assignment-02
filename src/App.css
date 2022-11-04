@@ -35,3 +35,14 @@
   border: 0.3px solid lightgrey;
 }
 
+.message {
+  margin-top: 2rem;
+  border: 1px solid red;
+  color: chartreuse;
+  padding: 1rem 0;
+}
+
+.no-message {
+  border: none;
+  display: none;
+}
